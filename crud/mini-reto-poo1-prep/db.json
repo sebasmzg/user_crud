@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Marta Pedrooo",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "email": "martuchis@gmail.com",
+      "id": "2"
+    },
+    {
+      "name": "alicia maravilla",
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+      "email": "alicia@maravilla.com",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "patricio",
+      "email": "j.sebastianmunoz@gmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/30.jpg "
+    },
+    {
+      "id": "5",
+      "name": "Carol Davis",
+      "email": "carol.davis@example.com",
+      "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Marta",
+      "email": "marta@pedro.com",
+      "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+      "id": "4b06",
+      "name": "asdaw",
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+      "email": "VANESSAVALDES00@GMAIL.COM"
+    }
+  ]
+}

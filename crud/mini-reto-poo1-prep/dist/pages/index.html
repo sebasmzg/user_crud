@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Users</title>
+    <link rel="stylesheet" href="../styles/style.css" />
+  </head>
+  <body>
+    <!-- <nav>
+      <ul class="nav-links">
+        <li><a href="./index.html">Inicio</a></li>
+        <li><a href="./insert_user.html">Crear</a></li>
+        <li><a href="./update_user.html">Actualizar</a></li>
+      </ul>
+    </nav> -->
+    <h1>Users</h1>
+    <div class="form-wrapper">
+      <form class="form">
+        <div>
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" />
+          <label for="email">Email</label>
+          <input type="text" id="email" name="email" />
+          <label for="avatar">Avatar</label>
+          <input type="text" id="avatar" name="avatar">
+        </div>
+        <div id="submit">
+          <button type="submit" i>Done</button>
+        </div>
+      </form>
+    </div>
+    <div class="item-list">
+      <!-- output list -->
+      <ul class="users-list"></ul>
+    </div>
+    <script type="module" src="../userCrud.js"></script>
+  </body>
+</html>
