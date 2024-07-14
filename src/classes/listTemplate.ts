@@ -48,9 +48,6 @@ export class listTemplate {
         
         //Agregar contenedor al documento
         this.container.appendChild(card);
-
-        console.log('Rendering user:', userId, userName, userEmail, userAvatar);
-        console.log('Element:', card);
     }
 }
 
