@@ -2,14 +2,31 @@
   margin: 0;
   box-sizing: border-box;
   padding: 0;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
 
 body {
-  background-color: #f4f4f4;
+  color: #fff !important;
   height: 100vh;
 }
 
-h1 {
+main{
+  background-color: #000000 !important;
+}
+
+footer{
+  background-color: #0e0e0e !important;
+}
+
+
+a{
+  text-decoration: none !important;
+  color: #fff !important;
+}
+
+h2 {
   text-align: center;
   font-size: 3rem;
 }
@@ -44,39 +61,21 @@ nav {
   border-radius: 5px;
 }
 
-.item-list {
+.users-list {
   display: grid;
-  /* flex-wrap: wrap; */
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  padding: 5px;
-  gap: 10px;
-  margin: 0 20px;
+  gap: 30px;
 }
 
 .item {
-  padding: 10px;
   border: 1px solid #000;
-  border-radius: 10px;
-  display: flex;
-  flex-direction: column;
-  justify-items: center;
-  align-items: center;
-  gap: 5px;
 }
 
-.item > h4 {
-  font-size: large;
-  font-weight: bold;
+.item:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease-in-out;
 }
 
-img {
-  border-radius: 10px;
-  object-fit: contain;
-}
-
-img:hover {
-  scale: 1.1;
-}
 .container-form{
     display: flex;
     justify-content: center;
@@ -115,6 +114,7 @@ img:hover {
     display: flex;
     justify-content: center;
 }
+
 button {
     background-color: #333;
     color: white;
@@ -137,8 +137,7 @@ button:hover {
     display: grid;
     /* flex-wrap: wrap; */
     grid-template-columns: 1fr 1fr;
-    padding: 5px;
-    gap: 10px;
+    gap: 30px;
   }
 }
 @media only screen and (max-width: 600px){
@@ -146,7 +145,6 @@ button:hover {
     display: grid;
     /* flex-wrap: wrap; */
     grid-template-columns: 1fr ;
-    padding: 5px;
-    gap: 10px;
+    gap: 30px;
   }
 }

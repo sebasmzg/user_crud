@@ -1,28 +1,16 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "John Doe",
-      "email": "john.doe@example.com",
-      "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
-    },
-    {
-      "id": "2",
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com",
-      "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
-    },
-    {
-      "id": "3",
-      "name": "Alice Johnson",
-      "email": "alice.johnson@example.com",
-      "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+      "name": "alicia maravilla",
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+      "email": "alicia@maravilla.com",
+      "id": "3"
     },
     {
       "id": "4",
-      "name": "Bob Brown",
-      "email": "bob.brown@example.com",
-      "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+      "name": "patricio",
+      "email": "j.sebastianmunoz@gmail.com",
+      "avatar": "https://randomuser.me/api/portraits/men/30.jpg "
     },
     {
       "id": "5",
@@ -31,22 +19,28 @@
       "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
     },
     {
-      "id": "36fbc618-b4ba-440b-815a-06d449d489e8",
-      "name": "Dr. Patrick Armstrong",
-      "email": "Kiara.Hoeger@hotmail.com",
-      "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+      "id": "6",
+      "name": "Marta",
+      "email": "marta@pedro.com",
+      "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
     },
     {
-      "id": "2fa7e5d2-d341-4d42-a0dc-54a456f97433",
-      "name": "Mr. Ellis Glover",
-      "email": "Arden75@hotmail.com",
-      "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+      "id": "4b06",
+      "name": "asdaw",
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg",
+      "email": "VANESSAVALDES00@GMAIL.COM"
     },
     {
-      "id": "61255452-8427-416c-aa48-0d21ff66091d",
-      "name": "Billie Von",
-      "email": "Johanna.Quigley@yahoo.com",
-      "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+      "name": "Sebastián Muñoz",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "email": "sebasmz15@gmail.com",
+      "id": "7e21"
+    },
+    {
+      "id": "8513",
+      "name": "Marta Pedrito",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "email": "sebasmz15@gmail.com"
     }
   ]
 }
